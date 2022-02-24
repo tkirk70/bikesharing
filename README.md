@@ -1,2 +1,2 @@
-# bikesharing :bicycle:
+# bikesharing :bicyclist:
 OSU Module 14 - Tableau

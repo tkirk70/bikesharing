@@ -1,4 +1,4 @@
-# :bicyclist: bikesharing 
+# :bicyclist: bikesharing
 
 OSU Module 14 - Tableau
 
@@ -20,7 +20,7 @@ df = df.to_csv("converted_no_index_201908-citibike-tripdata.csv", index = False)
 ![](img/jupyter_snapshot.PNG)
 
 ### Please visit my Public Tableau Page to see the VIZ's.
-[link to dashboard](https://public.tableau.com/views/BikeShareChallenge_16457264396390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/OSUChallenge14/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - Overview of the analysis: You are charged with gathering data from a bikeshare company in New York City in order to assist your salesperson friend, Kate make a pitch to investors in her hometown of Des Moines, Iowa.  Kate would like to start a bikeshare company in Des Moines and has asked you to provide her with visualizations which she can present to her potential investors.
 

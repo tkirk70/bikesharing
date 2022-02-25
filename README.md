@@ -2,6 +2,23 @@
 
 OSU Module 14 - Tableau
 
+### Before working with the dataset, the 'tripduration'column in the original .csv was converted to datetime.
+
+```python
+import pandas as pd
+
+# Create a DataFrame for the 201908-citibike-tripdata data.
+df = pd.read_csv('201908-citibike-tripdata.csv')
+
+# Convert the 'tripduration' column to datetime datatype.
+df['tripduration']= pd.to_datetime(df['tripduration'], unit='s')
+
+# Export the Dataframe as a new CSV file without the index.
+df = df.to_csv("converted_no_index_201908-citibike-tripdata.csv", index = False)
+```
+
+![](img/jupyter_snapshot.PNG)
+
 ### Please visit my Public Tableau Page to see the VIZ's.
 [link to dashboard](https://public.tableau.com/views/BikeShareChallenge_16457264396390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 

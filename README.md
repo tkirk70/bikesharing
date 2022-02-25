@@ -13,14 +13,14 @@ OSU Module 14 - Tableau
 
 Add at least two extra visualizations for a total of seven.
 
-![](img/checkout_time_by_gender)
+![](img/checkout_time_by_gender.PNG)
 
-![](img/trips_by_gender)
+![](img/trips_by_gender.PNG)
 
-![](img/trips_by_weekday)
+![](img/trips_by_weekday.PNG)
 
-![](img/user_trips_by_gender_by_weekday)
+![](img/user_trips_by_gender_by_weekday.PNG)
 
-![](img/top_start_stations)
+![](img/top_start_stations.PNG)
 
-![](img/startstation_over_ten_grand)
+![](img/startstation_over_ten_grand.PNG)

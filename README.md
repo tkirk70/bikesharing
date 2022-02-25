@@ -12,3 +12,15 @@ OSU Module 14 - Tableau
 - Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 Add at least two extra visualizations for a total of seven.
+
+![](img/checkout_time_by_gender)
+
+![](img/trips_by_gender)
+
+![](img/trips_by_weekday)
+
+![](img/user_trips_by_gender_by_weekday)
+
+![](img/top_start_stations)
+
+![](img/startstation_over_ten_grand)
